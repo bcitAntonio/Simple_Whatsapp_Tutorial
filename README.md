@@ -1,4 +1,4 @@
-# Simple_Whatsapp_Tutorial
+# Simple_Whatsapp_Tutorial_App
 Personal Project -Learning Android Scaledrone tutorial
 
 Simple Messaging App
